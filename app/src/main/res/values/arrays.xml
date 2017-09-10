@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="major">
+        <item>모바일 it</item>
+        <item>웹 it</item>
+        <item>정보통신</item>
+    </string-array>
+</resources>
